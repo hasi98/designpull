@@ -16,6 +16,10 @@ Most existing tools do rule-based CSS extraction. designpull sends a full-page s
 
 The output format follows the **Google Stitch DESIGN.md open specification** (Apache 2.0), making it compatible with Claude Code, Cursor, GitHub Copilot, Windsurf, Google Stitch, and any other AI coding agent that reads markdown.
 
+https://imgur.com/otpvmzI
+https://imgur.com/vyNvy8D
+https://imgur.com/kGOt1c7
+
 ---
 
 ## Features
