@@ -69,7 +69,7 @@ A `DESIGN.md` with these sections:
 This is an open source project. Load it as an unpacked extension:
 
 ```bash
-git clone https://github.com/yourusername/designpull
+git clone https://github.com/hasi98/designpull
 cd designpull
 ```
 
