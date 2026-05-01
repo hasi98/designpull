@@ -1,6 +1,6 @@
 # designpull
 
-> Generate Google Stitch compatible `DESIGN.md` files from any website — bring your own Gemini, OpenAI, Claude, or Ollama key.
+> Generate Google Stitch compatible `DESIGN.md` files from any website - bring your own Gemini, OpenAI, Claude, or Ollama key.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Chrome-yellow.svg)
@@ -60,7 +60,7 @@ A `DESIGN.md` with these sections:
 | Claude | ❌ Paid | claude-sonnet-4-6, claude-haiku-4-5 |
 | Ollama | ✅ Free (local) | llama3, mistral, any pulled model |
 
-> **Recommended for free usage:** Gemini 2.0 Flash — fast, supports vision, generous free tier.
+> **Recommended for free usage:** Gemini 2.5 Flash — fast, supports vision, generous free tier.
 
 ---
 
