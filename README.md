@@ -1,4 +1,4 @@
-# designpull
+# Designpull
 
 > Generate Google Stitch compatible `DESIGN.md` files from any website - bring your own Gemini, OpenAI, Claude, or Ollama key.
 
